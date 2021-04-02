@@ -8,7 +8,7 @@
 5. [main] [feat] 5
 6. [main] 6
 5. [feat] 5
-6. [feat] 7
-7. [feat] 8
+6. [feat] 6
+7. [feat] 7
 
 8: [main] 8
