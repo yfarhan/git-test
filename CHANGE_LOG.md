@@ -26,5 +26,8 @@ As [John Gruber] writes on the [Markdown site][df1]
 > or formatting instructions.
 
 ```
-let a: Vec<String> = vec![ "a", "b", "c" ];
+  fn main() {
+    let a: Vec<String> = vec![ "a", "b", "c" ];
+    println!("{}", a);
+  }
 ```
